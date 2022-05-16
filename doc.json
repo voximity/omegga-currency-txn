@@ -1,0 +1,7 @@
+{
+  "name": "currency-txn",
+  "description": "A typed safe Omegga plugin.",
+  "author": "voximity",
+  "config": {},
+  "commands": []
+}
